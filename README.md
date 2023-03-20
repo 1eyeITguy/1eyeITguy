@@ -1,4 +1,5 @@
-### Hi there 👋
+As a system administrator, I have a strong background in managing complex IT infrastructures. Recently, I've become passionate about DevOps principles and the benefits of Infrastructure as Code (IaC). My current focus is on learning how to deploy Microsoft Azure and M365 as code to improve efficiency and scalability. I'm excited to continue exploring this field and contributing to open source projects that promote best practices in DevOps and IaC
+
 
 <!--
 **1eyeITguy/1eyeITguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
