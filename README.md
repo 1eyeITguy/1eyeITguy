@@ -1,45 +1,57 @@
-✝️ Jesus Follower | Systems Engineer | Focused on OS Deployment, Cloud Technologies & DevOps
+✝️ **Jesus Follower | Systems Engineer | Focused on OS Deployment, Cloud Technologies & DevOps**
 
-I’ve spent my career managing IT infrastructure, and over time, I’ve developed a passion for automation, cloud technologies, and modern deployment strategies. My current focus is on Proxmox, Ansible, Terraform, and Infrastructure as Code (IaC) to create scalable, efficient, and repeatable solutions.
+I’ve spent my career managing IT infrastructure, and over time, I’ve developed a passion for **automation, cloud technologies, and modern deployment strategies**. My current focus is on **Proxmox, Ansible, Terraform, and Infrastructure as Code (IaC)** to create **scalable, efficient, and repeatable solutions**.
 
-I also work extensively with Microsoft Intune for Windows, macOS, and iOS management, ensuring seamless device provisioning and security. Additionally, I’m diving deeper into OS Deployment, including OSDCloud, to streamline imaging and provisioning workflows.
+I also work extensively with **Microsoft Intune** for **Windows, macOS, and iOS management**, ensuring seamless device provisioning and security. Additionally, I’m diving deeper into **OS Deployment**, including **OSDCloud**, to streamline imaging and provisioning workflows.
 
-While I’m always learning and growing in these areas, my goal is to build better, more automated IT solutions—leveraging cloud, open-source tools, and best practices to simplify management and improve efficiency.
+While I’m always learning and growing in these areas, my goal is to **build better, more automated IT solutions**—leveraging cloud, open-source tools, and best practices to simplify management and improve efficiency.
 
-🔹 Faith, technology, and continuous learning—one step at a time.
+🔹 **Faith, technology, and continuous learning—one step at a time.**
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=1eyeITguy&show_icons=true&locale=en&theme=dark" alt="1eyeITguy" /></p>
+---
 
-## Tools & Skills:
+## 📊 **GitHub Stats & Profile Views**
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=1eyeITguy&show_icons=true&locale=en&theme=dark" alt="1eyeITguy" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=flat" alt="1eyeITguy" />
+</p>
 
-### Platforms 💻:
-![Azure](https://img.shields.io/badge/Azure-black.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAtMTYuMzMgMTYxLjY3IDE2MS42NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtODguMzMgMC00Ny42NiA0MS4zMy00MC42NyA3M2gzNi42N3ptNi4zNCA5LjY3LTIwLjM0IDU3LjMzIDM5IDQ5LTc1LjY2IDEzaDEyNHoiIGZpbGw9IiMwMDcyYzYiLz48L3N2Zz4=)
-![Intune](https://img.shields.io/badge/microsoft_Intune-black.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAADAElEQVR4nO2dvW4TQRDHVxTQIIQiEu9YIBqqVKkQlLwCgpY3iBDBO4jKgkTClMA7UPAOvAHE3vVVKVGANh8USROjdSQEmIQ7f+zM3f5/0kqWorNn5nf75T0rxgAAAAAAAAAAAAAAAEDWrHaLi9aF1+T8N+IwanKzHL5aDr2Ys9FCDEi6MJReRM9oIYc7nyaa/260IF+MINKMFqQLQRAgXwxCD1DcRWektkOQaQikPT/1ATY9P/UBNj0/9QE2PT/1ATY9P/UBNj0/9QE2PT+JAFtPByvkwpZl3ycOP2KzLmwTh834N5MTqQVYFx4S+4Ozd7/+wLJ/YHIhpQB7WvyT/3/14E+ykZBKQCsOO+fe+RMS9u3z7WXTdFIJIBe2yhc/o5O2VAKs8wPpQqk8aUvXA/yhdIFUnrQlE8BVxv/6NrUC7OmaX7xA2QogDpvSxclaQKvqMtSFPdr4dM0opXYCInFzVX4jNrxvFFNLAb9J2D/vztde/FoLiMQdLjn/0nL4PF6eOn84fs3+heZhpzECmgAECAMBwkCAMBAwJ4jDh+tPiqUprsMkPA9iIS37Ly03vFf1OqyC5sAfmz/n39xa37lU7TosQ2fiHxvBot0p1sT3ATk3y/6IXHhmuqMLEMCCMlz42N4Y3kAPYFEJe7YzeLSwISgeKEt3ecpcQHY/UyVNQ9D4h9oceugJQWYSTg2VvPuyWYamhtQKENqIpWRpfedKWQHL3eJyipjEv4pIyQr7O2UFtLh/O0VMlsP7m4/7V6teV0sB1vl3ZQVY9m9n+axFF6h2AtqdYs06f1xBwFGZyfAsIODv4nPYLb3+/iUh7E4rIXsBcRJtd8LdOOzYCnf+hATnj+N7xPmjysScjYBpC0tzbqkLBAEMAegBjCFohCFIwfhPmAMggLRvxFKTzSpIKwQBOgVQ4rkoWwgCICBrCD2gXgLMgt8nOwgC6iWAsAqaLxLPOcUDpDmnUV+swBN/1vlX0nmrYTXhE38q/zUKAAAAAAAAAAAAAAAAGAl+Al9Z4MBsYmyeAAAAAElFTkSuQmCC)
+---
 
-### Operating Systems 💾:
-![Windows](https://img.shields.io/badge/Windows-black.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO3YsY0dMRAE0QVkTB6KZ432FONZiuFyOp+KgVaTX68ABkCgMDPdzwMAAAAAAAAAAAAAAAAAAHAM68/vdfPb/e/7N+vm95xGWwAChUAEignUniRWWKwwAsUN1J4ojug4ogkUKeyWt5s62zH8FeP70hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc6rB+pLQ6CDaAtAoOiBCBQrrD1JrLDogQgUR3R7ojiiowciUMT4W95u6mz3OK8eqC8NgQ6iLQCBogciUKyw9iSxwqIHIlAc0e2J4oiOHohAEeNvebups93jvHqgvjQEOoi2AASKHohAscLak8QKix6IQHFEtyeKIzp6IAJFjL/l7abOdo/z6oH60hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc77aT0QAAAAAAAAAAAA8Kn8+vpZN7/d/67vWTe/5zTaAhBoCESgMYHak8QKGyuMQOMGak8UR/Q4ogk0Utgtbzd1tmP4EuP70hDoINoCEGj0QAQaK6w9Sayw0QMRaBzR7YniiB49EIFGjL/l7abOdo+z9EB9aQh0EG0BCDR6IAKNFdaeJFbY6IEINI7o9kRxRI8eiEAjxt/ydlNnu8dZeqC+NAQ6iLYABBo9EIHGCmtPEits9EAEGkd0e6I4okcPRKAR4295u6mz3eMsPVBfGgIdRFsAAo0eiEBjhbUniRU2eiACjSO6PVEc0aMHItCI8be83dTZ7nGWHqgvDYEOoi0AgUYPRKCxwtqTxAobPRCBxhHdniiO6NEDEWjE+Fvebups9zjr03ogAAAAAAAAAAAAAAAAAADw/L/8A3VpW1ZhXbCuAAAAAElFTkSuQmCC)
-![macOS](https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple)
-![android](https://img.shields.io/badge/android-black.svg?style=for-the-badge&logo=data:image/png;base64,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)
-![iOS](https://img.shields.io/badge/ios-black.svg?style=for-the-badge&logo=apple)
-![linux](https://img.shields.io/badge/linux-black.svg?style=for-the-badge&logo=linux)
+## 🛠️ **Tools & Skills**
 
-### DevOps ♾️:
-![PowerShell](https://img.shields.io/badge/Powershell-black.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-005C84.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-silver.svg?style=for-the-badge&logo=gnubash&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-02A8F4?style=for-the-badge&logo=packer&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+### **💻 Platforms**
+- ![Azure](https://img.shields.io/badge/Azure-black.svg?style=for-the-badge&logo=microsoftazure)
+- ![Microsoft Intune](https://img.shields.io/badge/Intune-black.svg?style=for-the-badge&logo=microsoft)
+- ![Proxmox](https://img.shields.io/badge/Proxmox-EE0000.svg?style=for-the-badge&logo=proxmox)
+- ![OSDCloud](https://img.shields.io/badge/OSDCloud-blue.svg?style=for-the-badge&logo=microsoft)
 
-### IDEs and Tools 🛠:
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEs0lEQVR4nO2ZW2gcVRjHv5nUFupDycY2TWzTW9qk9VGrIqgPBUFQRESRqn0U2jSbvc22BTHRXGaCCBYfpIo+pG8BbXdu2ZmTkBKreEncmSVY8ckWFCsGaswcNbdPZjbbZJPdnbOy7iaQP/wez57/b/fMnDOzAJvZzGaqli0Xrj2+tS91c8fl23cCCfrBLvWvg7BhEhp6DoJJCkEDuRCZqZMp1iWcuYDsXK5N/PkArOuEySkIGXMQMhA6DHQlPIEsCWcxIFMlkHAehXWXiNkBEWMRwiZ6LEnkCOTgXK+TnWerXRsAkIMoeQeiJnpElgTCGYn7ZFqUuoQzVnuF7q1O987RLRAjn4BAEGIE10iETF8Bj4QzXPnyUeNeEEwd4gQ9AU/CXCOxU6YMOP9Utnw4GQDB/MIrn6WAxE4mAYqVKy+YjSCQdE75IhK7FMoEewFEDqTUwyCm9pdcPjp8DOLkVt7yBSTqFcoEW4F3JwOcZI/yko28aM9zktUNg4M1TGPjI49BnEwVLb9WYr58AtJkEy9ZN7zyK+AkewR60/VFxwrkGRCIw1Q+S4z8BjHjqd0KRRZ8+/OS/fnq8ncR7Z9BtJ/IOzBmvAqCMVtS+bg55l0rANCgUGTBX0C0pgoKZJjjxfQ57xrJJjLUAVFjAWIGgmCyFF8EwbwIr4/fk/2Isgm4691HILukZOicDEBQkyAyhBBNoifgJyGQOxAjL6yet1GhyIKvgPvNcqLdxSLB907MeLfBkIY5Eq5AXglzAs6TvEfmxrIJLIUXrXZeshZ8JUQLuQvXGCTMS9Cubys03/0KRRaYBTwJyT7Ji/Ys05Lq+gohrK+ViJnTEB9+2W+uPSpFFqDU1PTbJ3jRmmZaUj0TmdJZiWjye4gPMT2c7Pm/BLz0fXec4e6Uu6TC+oB3kGPMXpUiC/9N4LR8HNq1Kb573F8gu6REewA6x7dXXyAon4A2ZRrOJBDOKsi//Q2zBC/aKeibbGaZpkmlyEJp5cPJk9ChzkJQ9cp7Em0y8m99XYKEe/2kXvKbap9KkQX28rFkO0SSCxAeQujQMCMhZyTOJJB780t2CW/jsy5B5+TWCgggBwLpyhy0DIRIEvNLXEXujeszpUjwovVtoeP5fpUiC/79BdKTe1pcJdG+JHH6qgJtn9Ux79p3sX6vkeynV097QKXIgr9AvrP8SomgOgdn1fPeL1Xqrr38SyxykiWtfMY4oFFkgUHAHMt/bvckfoGw/mS+YXx/+hXWXXvFgXAUesYb3PEHNYos+AucI00gkBt5TpEjEByuL9uuvXyrve2OK5/A8tuE0aXy8xA3u+FFxkfKPusRd52Xdl3Yc4c0iiwAe9y7kfkQRJKlvw3rTbfyknWzFIlmjTIBFUvPeAMvWvbGFXAjpmuLPmNLyxzWKBNQ8Vz8cRsn2p+WQ6BZq/SrxWwGB2s4yfqomMARjfpyWKU6VC0+z9otOi2ORrVj6sxuqHZ4yQrm27VbChZ3SKu+zv6p4fut11bv2q06XYGz0KJTpVV1HoT1GvdAx4s2dctvf+8Hr3iL5sy26M7AkeTfrbARsuPjW88HPvzp10NX/pg6qtP3j6p0X7U7bWYzsMHyL9ro5E9GuMsUAAAAAElFTkSuQmCC)
+### **💾 Operating Systems**
+- ![Windows](https://img.shields.io/badge/Windows-black.svg?style=for-the-badge&logo=windows)
+- ![macOS](https://img.shields.io/badge/macOS-black.svg?style=for-the-badge&logo=apple)
+- ![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux)
+- ![iOS](https://img.shields.io/badge/iOS-black.svg?style=for-the-badge&logo=apple)
 
-<h3 align="left">Connect with me:</h3>
+### **♾️ DevOps & Automation**
+- ![PowerShell](https://img.shields.io/badge/Powershell-black.svg?style=for-the-badge&logo=powershell)
+- ![Bash](https://img.shields.io/badge/Bash-black.svg?style=for-the-badge&logo=gnubash)
+- ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible)
+- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform)
+- ![Packer](https://img.shields.io/badge/Packer-02A8F4.svg?style=for-the-badge&logo=packer)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker)
+- ![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-005C84.svg?style=for-the-badge&logo=microsoft)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions)
+- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops)
+
+### **🛠️ IDEs & Development Tools**
+- ![VSCode](https://img.shields.io/badge/VS_Code-black.svg?style=for-the-badge&logo=visualstudiocode)
+- ![Git](https://img.shields.io/badge/Git-E44C30.svg?style=for-the-badge&logo=git)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
+
+---
+
+## 🌐 **Connect with Me**
 <p align="left">
   <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -48,5 +60,3 @@ While I’m always learning and growing in these areas, my goal is to build bett
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=flat" alt="1eyeITguy" /> </p>
