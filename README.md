@@ -40,4 +40,4 @@ While I’m always learning and growing in these areas, my goal is to build bett
 <a href="https://linkedin.com/in/matthew-miles-54236311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgeasaurus" height="30" width="40" /></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vmatthew-miles-54236311&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-miles-54236311" /> </p>
