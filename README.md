@@ -1,4 +1,4 @@
-✝️ Jesus Follower | Systems Administrator | DevOps & Cloud Learner
+✝️ Jesus Follower | Systems Engineer | Focused on OS Deployment, Cloud Technologies & DevOps
 
 I’ve spent my career managing IT infrastructure, and over time, I’ve developed a passion for automation, cloud technologies, and modern deployment strategies. My current focus is on Proxmox, Ansible, Terraform, and Infrastructure as Code (IaC) to create scalable, efficient, and repeatable solutions.
 
