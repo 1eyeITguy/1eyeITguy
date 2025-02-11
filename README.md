@@ -54,9 +54,14 @@ While I’m always learning and growing in these areas, my goal is to **build be
 ## 🌐 **Connect with Me**
 <p align="left" style="font-size: 0;">
   <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <svg role="img" viewBox="0 0 24 24" width="40" height="30" fill="#0077B5" xmlns="http://www.w3.org/2000/svg">
+      <path d="M22.23 0H1.77C.792 0 0 .774 0 1.727v20.546C0 23.226.792 24 1.77 24h20.46c.978 0 1.77-.774 1.77-1.727V1.727C24 .774 23.208 0 22.23 0zM7.06 20.452H3.56V9h3.5v11.452zM5.31 7.72c-1.12 0-2.02-.91-2.02-2.02 0-1.11.91-2.02 2.02-2.02 1.11 0 2.02.91 2.02 2.02 0 1.12-.91 2.02-2.02 2.02zm15.142 12.732h-3.5V14.88c0-1.328-.025-3.042-1.85-3.042-1.852 0-2.135 1.448-2.135 2.94v5.674h-3.5V9h3.36v1.563h.048c.47-.89 1.615-1.826 3.326-1.826 3.56 0 4.216 2.34 4.216 5.38v6.335z"/>
+    </svg>
   </a>
   <a href="https://twitter.com/yeti195" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <svg role="img" viewBox="0 0 24 24" width="40" height="30" fill="#1DA1F2" xmlns="http://www.w3.org/2000/svg">
+      <path d="M23.954 4.57c-.885.392-1.83.656-2.825.775a4.933 4.933 0 0 0 2.163-2.723c-.951.555-2 .959-3.118 1.184a4.916 4.916 0 0 0-8.38 4.482A13.94 13.94 0 0 1 1.671 3.15a4.93 4.93 0 0 0-.665 2.475c0 1.71.87 3.213 2.188 4.096a4.905 4.905 0 0 1-2.226-.616v.061a4.917 4.917 0 0 0 3.946 4.819 4.902 4.902 0 0 1-2.216.084 4.917 4.917 0 0 0 4.59 3.417 9.87 9.87 0 0 1-6.102 2.105c-.396 0-.787-.023-1.174-.07a13.951 13.951 0 0 0 7.548 2.211c9.057 0 14.01-7.503 14.01-14.01 0-.214-.005-.426-.015-.637a9.936 9.936 0 0 0 2.462-2.53z"/>
+    </svg>
   </a>
 </p>
+
