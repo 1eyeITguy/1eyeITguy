@@ -10,12 +10,32 @@ While I’m always learning and growing in these areas, my goal is to **build be
 
 ---
 
+## 🎯 **Learning & Goals**
+- ✅ **Mastering OSDCloud for Zero-Touch Deployments**
+- ☁️ **Deepening Knowledge of Azure & M365 Automation**
+- 🛠 **Enhancing DevOps Workflows with GitHub Actions and Azure DevOps**  
+- 🔐 **Exploring Security & Compliance in Cloud Infrastructure**
+
+---
+
 ## 📊 **GitHub Stats & Profile Views**
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=1eyeITguy&show_icons=true&locale=en&theme=dark" alt="1eyeITguy" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=flat" alt="1eyeITguy" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1eyeITguy&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📝 **Check Out My Blog**
+📖 I write about **IT automation, OS deployment, DevOps, and more** at:  
+➡️ **[www.learningITtogether.com](https://www.learningITtogether.com)**  
 
 ---
 
