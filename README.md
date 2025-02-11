@@ -52,7 +52,7 @@ While I’m always learning and growing in these areas, my goal is to **build be
 ---
 
 ## 🌐 **Connect with Me**
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank" style="text-decoration: none;">
