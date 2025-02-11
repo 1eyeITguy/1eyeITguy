@@ -1,6 +1,6 @@
 ✝️ **Jesus Follower | Systems Engineer | Focused on OS Deployment, Cloud Technologies & DevOps**
 
-I’ve spent my career managing IT infrastructure, and over time, I’ve developed a passion for **automation, cloud technologies, and modern deployment strategies**. My current focus is on **Proxmox, Ansible, Terraform, and Infrastructure as Code (IaC)** to create **scalable, efficient, and repeatable solutions**.
+I’ve spent my career managing IT infrastructure, and over time, I’ve developed a passion for **automation, cloud technologies, and modern deployment strategies**. My current focus is on **Azure, M365, Intune, Proxmox, Ansible, Terraform, and Infrastructure as Code (IaC)** to create **scalable, efficient, and repeatable solutions**.
 
 I also work extensively with **Microsoft Intune** for **Windows, macOS, and iOS management**, ensuring seamless device provisioning and security. Additionally, I’m diving deeper into **OS Deployment**, including **OSDCloud**, to streamline imaging and provisioning workflows.
 
