@@ -66,7 +66,7 @@ While I’m always learning and growing in these areas, my goal is to **build be
     </td>
     <td>
       <a href="https://bsky.app/profile/matthewmiles.bsky.social" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Bluesky_Logo.svg" alt="Bluesky" height="30" width="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" height="30" width="40" />
       </a>
     </td>
   </tr>
