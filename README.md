@@ -27,8 +27,6 @@ While I’m always learning and growing in these areas, my goal is to **build be
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1eyeITguy&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
