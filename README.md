@@ -22,13 +22,13 @@ While I’m always learning and growing in these areas, my goal is to **build be
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=1eyeITguy&show_icons=true&locale=en&theme=dark" alt="1eyeITguy" />
   </p>
-  
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=flat" alt="1eyeITguy" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=flat" alt="1eyeITguy" />
 </p>
 
 ---
