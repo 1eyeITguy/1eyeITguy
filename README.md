@@ -53,10 +53,11 @@ While I’m always learning and growing in these areas, my goal is to **build be
 
 ## 🌐 **Connect with Me**
 <p align="left">
-  <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank">
+  <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/yeti195" target="_blank" style="margin-left: 10px;">
+  <a href="https://twitter.com/yeti195" target="_blank" style="text-decoration: none; margin-left: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
+
