@@ -52,7 +52,7 @@ While I’m always learning and growing in these areas, my goal is to **build be
 ---
 
 ## 🌐 **Connect with Me**
-<table border="0">
+<table>
   <tr>
     <td>
       <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank">
@@ -62,6 +62,11 @@ While I’m always learning and growing in these areas, my goal is to **build be
     <td>
       <a href="https://twitter.com/yeti195" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://bsky.app/profile/matthewmiles.bsky.social" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Bluesky_Logo.svg" alt="Bluesky" height="30" width="40" />
       </a>
     </td>
   </tr>
