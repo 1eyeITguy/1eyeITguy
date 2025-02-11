@@ -34,10 +34,14 @@ While I’m always learning and growing in these areas, my goal is to build bett
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEs0lEQVR4nO2ZW2gcVRjHv5nUFupDycY2TWzTW9qk9VGrIqgPBUFQRESRqn0U2jSbvc22BTHRXGaCCBYfpIo+pG8BbXdu2ZmTkBKreEncmSVY8ckWFCsGaswcNbdPZjbbZJPdnbOy7iaQP/wez57/b/fMnDOzAJvZzGaqli0Xrj2+tS91c8fl23cCCfrBLvWvg7BhEhp6DoJJCkEDuRCZqZMp1iWcuYDsXK5N/PkArOuEySkIGXMQMhA6DHQlPIEsCWcxIFMlkHAehXWXiNkBEWMRwiZ6LEnkCOTgXK+TnWerXRsAkIMoeQeiJnpElgTCGYn7ZFqUuoQzVnuF7q1O987RLRAjn4BAEGIE10iETF8Bj4QzXPnyUeNeEEwd4gQ9AU/CXCOxU6YMOP9Utnw4GQDB/MIrn6WAxE4mAYqVKy+YjSCQdE75IhK7FMoEewFEDqTUwyCm9pdcPjp8DOLkVt7yBSTqFcoEW4F3JwOcZI/yko28aM9zktUNg4M1TGPjI49BnEwVLb9WYr58AtJkEy9ZN7zyK+AkewR60/VFxwrkGRCIw1Q+S4z8BjHjqd0KRRZ8+/OS/fnq8ncR7Z9BtJ/IOzBmvAqCMVtS+bg55l0rANCgUGTBX0C0pgoKZJjjxfQ57xrJJjLUAVFjAWIGgmCyFF8EwbwIr4/fk/2Isgm4691HILukZOicDEBQkyAyhBBNoifgJyGQOxAjL6yet1GhyIKvgPvNcqLdxSLB907MeLfBkIY5Eq5AXglzAs6TvEfmxrIJLIUXrXZeshZ8JUQLuQvXGCTMS9Cubys03/0KRRaYBTwJyT7Ji/Ys05Lq+gohrK+ViJnTEB9+2W+uPSpFFqDU1PTbJ3jRmmZaUj0TmdJZiWjye4gPMT2c7Pm/BLz0fXec4e6Uu6TC+oB3kGPMXpUiC/9N4LR8HNq1Kb573F8gu6REewA6x7dXXyAon4A2ZRrOJBDOKsi//Q2zBC/aKeibbGaZpkmlyEJp5cPJk9ChzkJQ9cp7Em0y8m99XYKEe/2kXvKbap9KkQX28rFkO0SSCxAeQujQMCMhZyTOJJB780t2CW/jsy5B5+TWCgggBwLpyhy0DIRIEvNLXEXujeszpUjwovVtoeP5fpUiC/79BdKTe1pcJdG+JHH6qgJtn9Ux79p3sX6vkeynV097QKXIgr9AvrP8SomgOgdn1fPeL1Xqrr38SyxykiWtfMY4oFFkgUHAHMt/bvckfoGw/mS+YXx/+hXWXXvFgXAUesYb3PEHNYos+AucI00gkBt5TpEjEByuL9uuvXyrve2OK5/A8tuE0aXy8xA3u+FFxkfKPusRd52Xdl3Yc4c0iiwAe9y7kfkQRJKlvw3rTbfyknWzFIlmjTIBFUvPeAMvWvbGFXAjpmuLPmNLyxzWKBNQ8Vz8cRsn2p+WQ6BZq/SrxWwGB2s4yfqomMARjfpyWKU6VC0+z9otOi2ORrVj6sxuqHZ4yQrm27VbChZ3SKu+zv6p4fut11bv2q06XYGz0KJTpVV1HoT1GvdAx4s2dctvf+8Hr3iL5sy26M7AkeTfrbARsuPjW88HPvzp10NX/pg6qtP3j6p0X7U7bWYzsMHyL9ro5E9GuMsUAAAAAElFTkSuQmCC)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matthew-miles-54236311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgeasaurus" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/yeti195" target="_blank" style="margin-left: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=flat" alt="1eyeITguy" /> </p>
