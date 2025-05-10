@@ -39,38 +39,6 @@ While I’m always learning and growing in these areas, my goal is to **build be
 
 ---
 
-## 🛠️ **Tools & Skills**
-
-### **💻 Platforms**
-- ![Azure](https://img.shields.io/badge/Azure-black.svg?style=for-the-badge&logo=microsoftazure)
-- ![Microsoft Intune](https://img.shields.io/badge/Intune-black.svg?style=for-the-badge&logo=microsoft)
-- ![Proxmox](https://img.shields.io/badge/Proxmox-EE0000.svg?style=for-the-badge&logo=proxmox)
-- ![OSDCloud](https://img.shields.io/badge/OSDCloud-blue.svg?style=for-the-badge&logo=microsoft)
-
-### **💾 Operating Systems**
-- ![Windows](https://img.shields.io/badge/Windows-black.svg?style=for-the-badge&logo=windows)
-- ![macOS](https://img.shields.io/badge/macOS-black.svg?style=for-the-badge&logo=apple)
-- ![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux)
-- ![iOS](https://img.shields.io/badge/iOS-black.svg?style=for-the-badge&logo=apple)
-
-### **♾️ DevOps & Automation**
-- ![PowerShell](https://img.shields.io/badge/Powershell-black.svg?style=for-the-badge&logo=powershell)
-- ![Bash](https://img.shields.io/badge/Bash-black.svg?style=for-the-badge&logo=gnubash)
-- ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible)
-- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform)
-- ![Packer](https://img.shields.io/badge/Packer-02A8F4.svg?style=for-the-badge&logo=packer)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker)
-- ![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-005C84.svg?style=for-the-badge&logo=microsoft)
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions)
-- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops)
-
-### **🛠️ IDEs & Development Tools**
-- ![VSCode](https://img.shields.io/badge/VS_Code-black.svg?style=for-the-badge&logo=visualstudiocode)
-- ![Git](https://img.shields.io/badge/Git-E44C30.svg?style=for-the-badge&logo=git)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
-
----
-
 ## 🌐 **Connect with Me**
 <table>
   <tr>
