@@ -155,21 +155,36 @@ currentFocus:
 
 ## 🤝 **Let's Connect & Collaborate**
 
-> 💡 **I'm passionate about sharing knowledge and building community in the IT world**
+<div align="center">
 
-### 💬 **Love to discuss:**
+### 💡 **I'm passionate about sharing knowledge and building community**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="left">
+
+## 💬 **Love to discuss**
 - ☁️ Cloud Architecture & Best Practices
-- 🤖 IT Automation & Infrastructure as Code  
+- 🤖 IT Automation & Infrastructure as Code
 - 🏢 Modern Workplace Solutions
 - ✝️ Faith & Technology Integration
 - 🚀 Career Growth in IT
 
-### 🤝 **Always happy to help with:**
+</td>
+<td width="50%" align="left">
+
+## 🤝 **Always happy to help with**
 - 🔵 Azure & M365 Implementation
 - ⚡ PowerShell Scripting & Automation
 - 📱 Device Management Strategies
 - 🎯 IT Career Guidance & Mentoring
 - 🔧 Infrastructure Problem Solving
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
