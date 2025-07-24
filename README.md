@@ -75,9 +75,7 @@ currentFocus:
 
 ## 🎯 **Current Learning Journey**
 
-<details>
-<summary><b>🔥 Active Goals for 2024</b></summary>
-
+### 🔥 **Active Goals for 2025**
 - 🚀 **Mastering OSDCloud** for Zero-Touch Windows Deployments
 - ☁️ **Advanced Azure Architecture** & Cost Optimization Strategies  
 - 🔄 **GitHub Actions & Azure DevOps** for Complete CI/CD Workflows
@@ -85,27 +83,12 @@ currentFocus:
 - 📊 **Infrastructure Monitoring** with Azure Monitor & Log Analytics
 - 🤖 **AI Integration** in IT Operations & Automation
 
-</details>
-
-<details>
-<summary><b>📈 Skill Development Areas</b></summary>
-
-```mermaid
-graph LR
-    A[Current] --> B[Learning]
-    B --> C[Target]
-    
-    A1[Infrastructure Management] --> B1[Cloud-Native Solutions]
-    B1 --> C1[Full Stack Cloud Architect]
-    
-    A2[Manual Processes] --> B2[Automation & IaC]
-    B2 --> C2[DevOps Excellence]
-    
-    A3[Traditional IT] --> B3[Modern Workplace]
-    B3 --> C3[Digital Transformation Leader]
+### 📈 **Skill Development Path**
 ```
-
-</details>
+🏗️  Infrastructure Management  →  ☁️  Cloud-Native Solutions  →  🎯  Full Stack Cloud Architect
+🔧  Manual Processes         →  🤖  Automation & IaC        →  🚀  DevOps Excellence  
+💼  Traditional IT           →  🌐  Modern Workplace        →  📈  Digital Transformation Leader
+```
 
 ---
 
@@ -151,14 +134,6 @@ graph LR
 
 ---
 
-## 🌟 **GitHub Trophies**
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=1eyeITguy&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📝 **Latest from My Blog**
 
 > 📖 **[Learning IT Together](https://www.learningITtogether.com)** - Sharing knowledge about IT automation, OS deployment, DevOps, and modern workplace solutions
@@ -173,19 +148,30 @@ graph LR
 
 ## 🤝 **Let's Connect & Collaborate**
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
 ### 💬 **Open to discussing:**
-- Cloud Architecture & Best Practices
-- IT Automation & Infrastructure as Code
-- Modern Workplace Solutions
-- Faith & Technology Integration
+🔹 Cloud Architecture & Best Practices  
+🔹 IT Automation & Infrastructure as Code  
+🔹 Modern Workplace Solutions  
+🔹 Faith & Technology Integration  
+
+</td>
+<td width="50%" align="center">
 
 ### 🤝 **Always happy to help with:**
-- Azure & M365 Questions
-- PowerShell Scripting Challenges
-- Device Management Strategies
-- Career Guidance in IT
+🔹 Azure & M365 Questions  
+🔹 PowerShell Scripting Challenges  
+🔹 Device Management Strategies  
+🔹 Career Guidance in IT  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ---
 
