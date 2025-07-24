@@ -109,9 +109,9 @@ currentFocus:
 
 ### 📊 **Recent Achievements**
 - ✅ Successfully automated 90% of device provisioning workflows
-- 🏅 Reduced deployment time
-- 📈 Improved security compliance
-- 🎓 Continuous learning through hands-on projects
+- 🏅 Reduced deployment time from days to hours
+- 📈 Improved security compliance across all managed devices
+- 🎓 Continuous learning through hands-on cloud projects
 
 </td>
 </tr>
