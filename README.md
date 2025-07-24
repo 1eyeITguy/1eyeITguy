@@ -1,61 +1,196 @@
-✝️ **Jesus Follower | Systems Engineer | Focused on OS Deployment, Cloud Technologies & DevOps**
+<div align="center">
 
-I’ve spent my career managing IT infrastructure, and over time, I’ve developed a passion for **automation, cloud technologies, and modern deployment strategies**. My current focus is on **Azure, M365, Intune, Proxmox, Ansible, Terraform, and Infrastructure as Code (IaC)** to create **scalable, efficient, and repeatable solutions**.
+# 👋 Hey there, I'm **Matthew Miles** 
+### ✝️ **Jesus Follower** | 🔧 **Systems Engineer** | ☁️ **Cloud & DevOps Enthusiast**
 
-I also work extensively with **Microsoft Intune** for **Windows, macOS, and iOS management**, ensuring seamless device provisioning and security. Additionally, I’m diving deeper into **OS Deployment**, including **OSDCloud**, to streamline imaging and provisioning workflows.
+*Building automated IT solutions that glorify God and serve others*
 
-While I’m always learning and growing in these areas, my goal is to **build better, more automated IT solutions**—leveraging cloud, open-source tools, and best practices to simplify management and improve efficiency.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-miles-54236311)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yeti195)
+[![Bluesky](https://img.shields.io/badge/Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/matthewmiles.bsky.social)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.learningITtogether.com)
 
-🔹 **Faith, technology, and continuous learning—one step at a time.**
+![Profile Views](https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
----
-
-## 🎯 **Learning & Goals**
-- ✅ **Mastering OSDCloud for Zero-Touch Deployments**
-- ☁️ **Deepening Knowledge of Azure & M365 Automation**
-- 🛠 **Enhancing DevOps Workflows with GitHub Actions and Azure DevOps**  
-- 🔐 **Exploring Security & Compliance in Cloud Infrastructure**
+</div>
 
 ---
 
-## 📊 **GitHub Stats & Profile Views**
-<p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=1eyeITguy&show_icons=true&locale=en&theme=dark" alt="1eyeITguy" />
-  </p>
+## 🚀 **About Me**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+I'm passionate about **automation, cloud technologies, and modern deployment strategies** with a focus on creating **scalable, efficient, and repeatable solutions**. My expertise spans across **Azure ecosystems, endpoint management, and Infrastructure as Code**, always seeking to build better IT solutions through continuous learning.
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=flat" alt="1eyeITguy" />
-</p>
-
----
-
-## 📝 **Check Out My Blog**
-📖 I write about **IT automation, OS deployment, DevOps, and more** at:  
-➡️ **[www.learningITtogether.com](https://www.learningITtogether.com)**  
+```yaml
+currentFocus:
+  - OS Deployment & OSDCloud Zero-Touch Solutions
+  - Azure & M365 Automation Workflows  
+  - Infrastructure as Code with Terraform & Ansible
+  - Modern Device Management with Intune
+  - DevOps & CI/CD Pipeline Optimization
+```
 
 ---
 
-## 🌐 **Connect with Me**
+## 🛠️ **Tech Stack & Expertise**
+
 <table>
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/matthew-miles-54236311" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://twitter.com/yeti195" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://bsky.app/profile/matthewmiles.bsky.social" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="33%">
+
+### ☁️ **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/M365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 💻 **Systems & Management**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🔧 **Development & Tools**
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🎯 **Current Learning Journey**
+
+<details>
+<summary><b>🔥 Active Goals for 2024</b></summary>
+
+- 🚀 **Mastering OSDCloud** for Zero-Touch Windows Deployments
+- ☁️ **Advanced Azure Architecture** & Cost Optimization Strategies  
+- 🔄 **GitHub Actions & Azure DevOps** for Complete CI/CD Workflows
+- 🔐 **Zero Trust Security Models** in Cloud Infrastructure
+- 📊 **Infrastructure Monitoring** with Azure Monitor & Log Analytics
+- 🤖 **AI Integration** in IT Operations & Automation
+
+</details>
+
+<details>
+<summary><b>📈 Skill Development Areas</b></summary>
+
+```mermaid
+graph LR
+    A[Current] --> B[Learning]
+    B --> C[Target]
+    
+    A1[Infrastructure Management] --> B1[Cloud-Native Solutions]
+    B1 --> C1[Full Stack Cloud Architect]
+    
+    A2[Manual Processes] --> B2[Automation & IaC]
+    B2 --> C2[DevOps Excellence]
+    
+    A3[Traditional IT] --> B3[Modern Workplace]
+    B3 --> C3[Digital Transformation Leader]
+```
+
+</details>
+
+---
+
+## 🏆 **Featured Projects & Achievements**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Project Highlights**
+- 🔧 **OSDCloud Automation** - Zero-touch Windows deployment solutions
+- ☁️ **Azure Infrastructure** - Scalable cloud architectures with Terraform
+- 📱 **Intune Management** - Cross-platform device lifecycle automation
+- 🤖 **PowerShell Modules** - Custom tools for IT operations
+
+</td>
+<td width="50%">
+
+### 📊 **Recent Achievements**
+- ✅ Successfully automated 90% of device provisioning workflows
+- 🏅 Reduced deployment time
+- 📈 Improved security compliance
+- 🎓 Continuous learning through hands-on projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=1eyeITguy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1eyeITguy&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="50%"/>
+</div>
+
+---
+
+## 🌟 **GitHub Trophies**
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=1eyeITguy&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📝 **Latest from My Blog**
+
+> 📖 **[Learning IT Together](https://www.learningITtogether.com)** - Sharing knowledge about IT automation, OS deployment, DevOps, and modern workplace solutions
+
+**Upcoming Topics:**
+- 🚀 OSDCloud Implementation Strategies
+- ☁️ Azure Automation Best Practices  
+- 🔧 PowerShell Scripting for IT Operations
+- 📱 Modern Device Management with Intune
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+### 💬 **Open to discussing:**
+- Cloud Architecture & Best Practices
+- IT Automation & Infrastructure as Code
+- Modern Workplace Solutions
+- Faith & Technology Integration
+
+### 🤝 **Always happy to help with:**
+- Azure & M365 Questions
+- PowerShell Scripting Challenges
+- Device Management Strategies
+- Career Guidance in IT
+
+---
+
+**"*Commit to the Lord whatever you do, and he will establish your plans.*" - Proverbs 16:3**
+
+</div>
+
+
