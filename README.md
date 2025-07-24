@@ -163,7 +163,7 @@ currentFocus:
 
 <table align="center">
 <tr>
-<td width="50%" align="left">
+<td width="%" align="left">
 
 ## 💬 **Love to discuss**
 - ☁️ Cloud Architecture & Best Practices
@@ -173,7 +173,7 @@ currentFocus:
 - 🚀 Career Growth in IT
 
 </td>
-<td width="50%" align="left">
+<td width="%" align="left">
 
 ## 🤝 **Always happy to help with**
 - 🔵 Azure & M365 Implementation
