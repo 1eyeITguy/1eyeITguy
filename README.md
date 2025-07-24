@@ -10,6 +10,8 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/matthewmiles.bsky.social)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.learningITtogether.com)
 
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=1eyeITguy&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
@@ -84,11 +86,16 @@ currentFocus:
 - 🤖 **AI Integration** in IT Operations & Automation
 
 ### 📈 **Skill Development Path**
-```
-🏗️  Infrastructure Management  →  ☁️  Cloud-Native Solutions  →  🎯  Full Stack Cloud Architect
-🔧  Manual Processes         →  🤖  Automation & IaC        →  🚀  DevOps Excellence  
-💼  Traditional IT           →  🌐  Modern Workplace        →  📈  Digital Transformation Leader
-```
+
+<div align="center">
+
+| **Current State** | **Working On** | **Ultimate Goal** |
+|:------------------|:---------------|:------------------|
+| 🏗️ **Infrastructure Management** | ☁️ **Cloud-Native Solutions** | 🎯 **Full Stack Cloud Architect** |
+| 🔧 **Manual Processes** | 🤖 **Automation & IaC** | 🚀 **DevOps Excellence** |
+| 💼 **Traditional IT** | 🌐 **Modern Workplace** | 📈 **Digital Transformation Leader** |
+
+</div>
 
 ---
 
@@ -178,5 +185,3 @@ currentFocus:
 **"*Commit to the Lord whatever you do, and he will establish your plans.*" - Proverbs 16:3**
 
 </div>
-
-
