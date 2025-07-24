@@ -130,8 +130,8 @@ currentFocus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1eyeITguy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_rank=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1eyeITguy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_rank=true" alt="GitHub Stats" width="48%" style="vertical-align: top;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="48%" style="vertical-align: top;"/>
 </div>
 
 ---
