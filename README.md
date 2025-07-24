@@ -155,24 +155,32 @@ currentFocus:
 
 ## 🤝 **Let's Connect & Collaborate**
 
+<div align="center">
+
+### 💡 **I'm passionate about sharing knowledge and building community**
+
+</div>
+
 <table align="center">
 <tr>
 <td width="50%" align="center">
 
-### 💬 **Open to discussing:**
-🔹 Cloud Architecture & Best Practices  
-🔹 IT Automation & Infrastructure as Code  
-🔹 Modern Workplace Solutions  
-🔹 Faith & Technology Integration  
+### 💬 **Love to discuss**
+- ☁️ Cloud Architecture & Best Practices
+- 🤖 IT Automation & Infrastructure as Code
+- 🏢 Modern Workplace Solutions
+- ✝️ Faith & Technology Integration
+- 🚀 Career Growth in IT
 
 </td>
 <td width="50%" align="center">
 
-### 🤝 **Always happy to help with:**
-🔹 Azure & M365 Questions  
-🔹 PowerShell Scripting Challenges  
-🔹 Device Management Strategies  
-🔹 Career Guidance in IT  
+### 🤝 **Always happy to help with**
+- 🔵 Azure & M365 Implementation
+- ⚡ PowerShell Scripting & Automation
+- 📱 Device Management Strategies
+- 🎯 IT Career Guidance & Mentoring
+- 🔧 Infrastructure Problem Solving
 
 </td>
 </tr>
@@ -180,8 +188,15 @@ currentFocus:
 
 <div align="center">
 
+### 📬 **Get in Touch**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-miles-54236311)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yeti195)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.learningITtogether.com)
+
 ---
 
-**"*Commit to the Lord whatever you do, and he will establish your plans.*" - Proverbs 16:3**
+*"Commit to the Lord whatever you do, and he will establish your plans." - Proverbs 16:3*
 
 </div>
