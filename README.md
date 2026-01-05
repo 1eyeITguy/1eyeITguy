@@ -130,10 +130,7 @@ currentFocus:
 
 <div align="center">
 
-[![GitHub Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1eyeITguy&theme=dark_dimmed)](https://github.com/1eyeITguy)
-
-[![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1eyeITguy&theme=dark_dimmed)](https://github.com/1eyeITguy)
-[![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1eyeITguy&theme=dark_dimmed)](https://github.com/1eyeITguy)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1eyeITguy&theme=dark-dimmed&hide_border=true)](https://github.com/1eyeITguy)
 
 </div>
 
