@@ -130,7 +130,16 @@ currentFocus:
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1eyeITguy&theme=dark-dimmed&hide_border=true)](https://github.com/1eyeITguy)
+<table>
+<tr>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=1eyeITguy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_rank=true" alt="GitHub Stats" loading="lazy"/>
+</td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" loading="lazy"/>
+</td>
+</tr>
+</table>
 
 </div>
 
