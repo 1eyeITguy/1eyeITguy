@@ -1,0 +1,34 @@
+name: GitHub Stats Action
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  github-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          user: 1eyeITguy
+          theme: dark
+          # Custom colors matching your original style
+          bg_color: '0D1117'
+          title_color: 'F85D7F'
+          icon_color: 'F8D866'
+          text_color: 'FFFFFF'
+          hide_rank: 'true'
+          hide_border: 'true'
+      
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update github stats'
+          file_pattern: 'github-stats*'
