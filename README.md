@@ -130,16 +130,10 @@ currentFocus:
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=1eyeITguy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_rank=true&cache_seconds=1800" alt="GitHub Stats - Contributions and Commits" loading="lazy"/>
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages - Language Distribution" loading="lazy"/>
-</td>
-</tr>
-</table>
+[![GitHub Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1eyeITguy&theme=dark_dimmed)](https://github.com/1eyeITguy)
+
+[![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1eyeITguy&theme=dark_dimmed)](https://github.com/1eyeITguy)
+[![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1eyeITguy&theme=dark_dimmed)](https://github.com/1eyeITguy)
 
 </div>
 
