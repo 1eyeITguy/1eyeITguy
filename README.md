@@ -133,10 +133,10 @@ currentFocus:
 <table>
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=1eyeITguy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_rank=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1eyeITguy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_rank=true&cache_seconds=1800" alt="GitHub Stats - Contributions and Commits" loading="lazy"/>
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eyeITguy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages - Language Distribution" loading="lazy"/>
 </td>
 </tr>
 </table>
