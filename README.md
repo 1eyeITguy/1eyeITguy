@@ -130,8 +130,8 @@ currentFocus:
 
 <div align="center">
 
-![GitHub Stats](github-stats.svg)
-![Top Languages](github-stats-langs.svg)
+![GitHub Stats](stats/github-stats.svg)
+![Top Languages](stats/github-stats-langs.svg)
 
 </div>
 
